@@ -1,3 +1,3 @@
 # Hello-World
-Learninng new things 
+Learning new things 
 
